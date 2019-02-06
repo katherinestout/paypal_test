@@ -1,6 +1,6 @@
 # paypal_test
 
-Simple PayPal App. 
+Simple PayPal App. ONLY for sandbox accounts, no real PayPal accounts. 
 
 ## Built With
 
