@@ -17,8 +17,4 @@ https://www.youtube.com/watch?v=7k03jobKGXM&t=758s
 https://github.com/bradtraversy/node_paypal_sdk_sample
 
 
-#### Sample Sandbox PayPal Account:
-
-email: fashion_personal@gmail.com
-password: FashionPersonal!!
 
